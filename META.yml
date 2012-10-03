@@ -24,4 +24,4 @@ resources:
   bugtracker: https://github.com/ysasaki/p5-text-xslate-bridge-fillinform-lite/issues
   license: http://dev.perl.org/licenses/
   repository: git://github.com/ysasaki/p5-text-xslate-bridge-fillinform-lite.git
-version: 0.02
+version: 0.03
